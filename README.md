@@ -2,8 +2,6 @@
 :video_game:  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=EAA00C&size=48&width=500&duration=3000&height=81&center=true&vCenter=true&lines=Grupo+4+FourGame"/>
 :video_game: </h1>
 
-Layout practice using Flexbox. In the 'Indivual' branch there is a mockup of layout with divs with different colors and positioning.  In the 'group' branch there is a mockup based on a website. 
-
 
 
 
@@ -28,15 +26,23 @@ acompañado de las últimas novedades tecnológicas y los mejores precios del me
 
  ## Integrantes 
 
- ### Juan De giorgi   
+ ### :white_check_mark: Juan De giorgi   
 
 
- ### Ezequiel Rango  
+ ### :white_check_mark: Ezequiel Rango  
 
 
+  ## Desarrollo :bulb:
+  
+Desarrollo de un e-commerce utilizando HTML para la estructura :triangular_ruler: , CSS para los estilos :art: y Javascript para interacciones :running:  y/o validaciones del lado del cliente. :hand: :rotating_light: 
+Antes de comenzar el desarrollo del mismo, hicimos un breve análisis del proyecto :thought_balloon: y también el diseño de las vistas en Figma. :art:
+El diseño y desarrollo del FrontEnd toma las buenas prácticas de hacer sitios responsive (mobile,tablet y desktop). :computer: :iphone:
+El Backend y la API REST fueron desarrollados en NodeJs.  Se utlizó la arquitectura MVC, usando como motor de plantillas EJS.
+Diseñamos y utilizamos un UML para el armado y organización de la base de datos relacional (MySQL) y empleamos el ORM Sequelize para consultas y manipulación de datos.
+Todo el proyecto se desarrolló siguiendo los lineamientos de Metodologías ágiles, y se gestionó utilizando Git para el control de versiones, en un repositorio de trabajo colaborativo y organizado. :octocat:
 
 
-  ## Referentes usados 
+  ## Referentes usados :exclamation:
 
 [**Libre Opcion**](https://www.libreopcion.com)  
 [**Mercado Libre**](https://www.mercadolibre.com.ar/#from=homecom)  
